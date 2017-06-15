@@ -1,0 +1,29 @@
+{
+  "name": "react-crud",
+  "version": "0.0.1",
+  "description": "Automatically create your UI via model schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markus-wi/react-crud.git"
+  },
+  "keywords": [
+    "react",
+    "crud",
+    "admin",
+    "generate",
+    "ui",
+    "automatically",
+    "model",
+    "schemas"
+  ],
+  "author": "markus-wi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markus-wi/react-crud/issues"
+  },
+  "homepage": "https://github.com/markus-wi/react-crud#readme"
+}
